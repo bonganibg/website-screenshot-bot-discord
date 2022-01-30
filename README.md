@@ -2,7 +2,7 @@
 
 <!-- Image of the thing working -->
 
-Simple Discord bot that sends screenshots of a webpage when a user sends a URL
+Simple Discord bot that sends screenshots of a webpage to the discord server when a user sends a URL with the text 'takeashot'
 
 ## External Links
 
