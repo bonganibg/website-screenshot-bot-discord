@@ -1,0 +1,24 @@
+{
+  "name": "website-screenshot-bot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonganibg/website-screenshot-bot-discord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonganibg/website-screenshot-bot-discord/issues"
+  },
+  "homepage": "https://github.com/bonganibg/website-screenshot-bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.2"
+  }
+}
